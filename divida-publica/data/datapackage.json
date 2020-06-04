@@ -5,9 +5,9 @@
       "name": "divida-publica",
       "path": "https://raw.githubusercontent.com/dados-mg/inventario-de-dados/master/divida-publica/data/divida-publica/divida-publica.csv",
       "profile": "tabular-data-resource",
-      "resource type": "text/csv"
-      "created": "20200603"
-      "last modified": "20200603"
+      "resource type": "text/csv",
+      "created": "20200603",
+      "last modified": "20200603",
       "schema": {
         "fields": [
           {
@@ -136,9 +136,9 @@
       "name": "divida-publica-2020",
       "path": "https://raw.githubusercontent.com/dados-mg/inventario-de-dados/master/divida-publica/data/divida-publica-2020/divida-publica-2020.csv",
       "profile": "tabular-data-resource",
-      "resource type": "text/csv"
-      "created": "20200603"
-      "last modified": "20200603"
+      "resource type": "text/csv",
+      "created": "20200603",
+      "last modified": "20200603",
       "schema": {
         "fields": [
           {
@@ -280,7 +280,7 @@
   "contributors": [
     {
       "title": "Diretoria de Transparência Ativa ",
-      "path": "dados.mg.gov.br"
+      "path": "dados.mg.gov.br",
       "role": "publisher",
       "email": "transparencia@cge.mg.gov.br"
     }
